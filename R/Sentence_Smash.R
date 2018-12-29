@@ -1,0 +1,3 @@
+smash <- function(words) {
+  paste(words, collapse = " ")
+}
