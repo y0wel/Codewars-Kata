@@ -1,5 +1,5 @@
 get_sum <- function(a, b) {
-  if(a == b) {
+  if (a == b) {
     result <- a
   }
   else {
