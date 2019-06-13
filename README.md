@@ -7,4 +7,4 @@ My solutions to some katas from codewars
 |R|59|
 
 
-Here's my codewars profile: https://www.codewars.com/users/y0wel/
+Here's my codewars [profile](https://www.codewars.com/users/y0wel/)
